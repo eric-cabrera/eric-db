@@ -1,0 +1,10 @@
+{
+  "time": "2021-07-03T22:17:06.035352-04:00",
+  "version": "1.0.0",
+  "errors": [
+    {
+      "message": "Merchant code '1111' not found.",
+      "field": null
+    }
+  ]
+}
